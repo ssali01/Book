@@ -1,2 +1,4 @@
 This is a new Chapter for new Book
 Welcome to Book
+
+Editor: make some more fun stuff
